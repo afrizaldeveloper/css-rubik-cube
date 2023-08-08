@@ -21,7 +21,7 @@ class GitHubLink extends HTMLElement {
                     border-radius: 4px;
                 }
             </style>
-			<a href="https://github.com/lukapopijac/css-rubiks-cube">GitHub</a>
+			<a href="https://github.com/afrizaldeveloper/css-rubik-cube">GitHub</a>
 		`;
     }
 }
